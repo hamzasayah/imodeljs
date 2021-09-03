@@ -6,7 +6,7 @@
 # Docker container to run the RPC Interface tests against a given configuration.  See [sample .env](./template.env) for details.
 
 ### Stage 1: Base
-FROM node:10.15.3
+FROM node:10.23.2
 
 # adding every possible package for puppeteer
 RUN apt update && apt install -y \
