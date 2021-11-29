@@ -27,7 +27,7 @@
   "dependencies": {
     "@babel/core": "7.7.4",
     "@bentley/webpack-tools-core": "workspace:*",
-    "@svgr/webpack": "4.3.3",
+    "@svgr/webpack": "6.0.0",
     "babel-loader": "8.1.0",
     "babel-plugin-named-asset-import": "^0.3.5",
     "babel-preset-react-app": "^9.1.0",
