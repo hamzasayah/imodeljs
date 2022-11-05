@@ -92,7 +92,7 @@
   "dependencies": {
     "classnames": "^2.3.1",
     "immer": "^9.0.1",
-    "svg-sprite-loader": "4.2.1",
+    "svg-sprite-loader": "5.2.1",
     "uuid": "^7.0.3"
   },
   "nyc": {
