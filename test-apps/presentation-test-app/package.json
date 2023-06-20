@@ -50,7 +50,7 @@
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-select": "3.1.0",
-    "semver": "^5.5.0"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@bentley/config-loader": "workspace:*",
