@@ -31,7 +31,7 @@
     "@bentley/electron-manager": "workspace:*",
     "body-parser": "^1.18.2",
     "chai": "^4.1.2",
-    "electron": "^11.1.0",
+    "electron": "^26.6.3",
     "express": "^4.16.3",
     "fs-extra": "^8.1.0",
     "fuse.js": "^3.3.0",
