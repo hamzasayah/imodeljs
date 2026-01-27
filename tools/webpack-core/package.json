@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "chalk": "^3.0.0",
-    "copy-webpack-plugin": "^6.2.1",
+    "copy-webpack-plugin": "^7.0.0",
     "file-loader": "^4.2.0",
     "findup": "0.1.5",
     "fs-extra": "^8.1.0",
